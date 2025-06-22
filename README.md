@@ -1,9 +1,9 @@
-## Hi there 👋
+
 
 <div align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+<!--   <a href="https://github.com/YOUR_GITHUB_USERNAME">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_title=true" alt="Top Languages" height="150px"/>
-  </a>
+  </a> -->
 </div>
 
 <h1 align="center">👋 Hey there! I'm a TypeScript Fullstack Developer.</h1>
@@ -25,42 +25,22 @@
     <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/> </a>
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a>
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> </a>
-    <a href="https://tanstack.com/query/latest" target="_blank"> <img src="https://tanstack.com/_build/q-300-e2b204e1.png" alt="TanStack Query" width="40" height="40"/> </a>
-    <a href="https://www.radix-ui.com/" target="_blank"> <img src="https://www.radix-ui.com/logo.svg" alt="Radix UI" width="40" height="40"/> </a>
-    <a href="https://react-hook-form.com/" target="_blank"> <img src="https://raw.githubusercontent.com/react-hook-form/react-hook-form/master/docs/logo/react-hook-form-logo.png" alt="React Hook Form" width="40" height="40"/> </a>
-  </p>
+    <a href="https://tanstack.com/query/latest" target="_blank"> <img src="https://medium.com/@ali.abualrob2612/mastering-data-fetching-with-react-query-tanstack-query-5572aac0fa5a" width="40" height="40"/> </a>
+     </p>
 
   <h3>Backend & Database</h3>
   <p>
-    <a href="https://nodejs.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a>
-    <a href="https://expressjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/> </a>
-    <a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a>
-    <a href="https://www.prisma.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/prismaio/prismaio-icon.svg" alt="Prisma" width="40" height="40"/> </a>
-    <a href="https://www.convex.dev/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/convex-db.svg" alt="ConvexDB" width="40" height="40"/> </a>
+    <a href="https://www.convex.dev/" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstackshare.io%2Fconvex&psig=AOvVaw2pZwH3djXIjbfmrtGUtO4x&ust=1750655188768000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDTkfmghI4DFQAAAAAdAAAAABAE" alt="ConvexDB" width="40" height="40"/> </a>
   </p>
 
   <h3>Tools & Others</h3>
   <p>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> </a>
-    <a href="https://vercel.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="40" height="40"/> </a>
-    <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> </a>
-    <a href="https://www.jestjs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjs/jestjs-icon.svg" alt="Jest" width="40" height="40"/> </a>
-    <a href="https://testing-library.com/" target="_blank"> <img src="https://testing-library.com/img/octopus-64x64.png" alt="React Testing Library" width="40" height="40"/> </a>
   </p>
 </div>
 
----
 
-<h2 align="center">📊 My GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Your GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
 
 <h2 align="center">🌱 Currently Learning & Exploring</h2>
 
