@@ -71,9 +71,7 @@
   Thanks for stopping by!
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=brightgreen" alt="Profile views" />
-</p>
+
 <!--
 **Muibeabuchi/Muibeabuchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
