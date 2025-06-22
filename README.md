@@ -1,11 +1,3 @@
-
-
-<div align="center">
-<!--   <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_title=true" alt="Top Languages" height="150px"/>
-  </a> -->
-</div>
-
 <h1 align="center">👋 Hey there! I'm a TypeScript Fullstack Developer.</h1>
 
 <p align="center">
@@ -15,8 +7,6 @@
 ---
 
 <h2 align="center">🚀 My Tech Stack</h2>
-
-<br>
 
 <div align="center">
   <h3>Frontend</h3>
