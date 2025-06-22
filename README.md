@@ -4,8 +4,6 @@
   Building robust and scalable web applications with a focus on great user experiences.
 </p>
 
----
-
 <h2 align="center">🚀 My Tech Stack</h2>
 
 <div align="center">
@@ -55,11 +53,6 @@
   </a>
 </p>
 
-<br>
-
-<p align="center">
-  Thanks for stopping by!
-</p>
 
 
 <!--
