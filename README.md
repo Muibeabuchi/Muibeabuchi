@@ -25,13 +25,9 @@
     <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/> </a>
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a>
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> </a>
-    <a href="https://tanstack.com/query/latest" target="_blank"> <img src="https://medium.com/@ali.abualrob2612/mastering-data-fetching-with-react-query-tanstack-query-5572aac0fa5a" width="40" height="40"/> </a>
      </p>
 
-  <h3>Backend & Database</h3>
-  <p>
-    <a href="https://www.convex.dev/" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstackshare.io%2Fconvex&psig=AOvVaw2pZwH3djXIjbfmrtGUtO4x&ust=1750655188768000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDTkfmghI4DFQAAAAAdAAAAABAE" alt="ConvexDB" width="40" height="40"/> </a>
-  </p>
+  
 
   <h3>Tools & Others</h3>
   <p>
