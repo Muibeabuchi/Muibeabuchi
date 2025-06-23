@@ -1,3 +1,54 @@
+# 👋 Hi there, I'm **Miracle Chiki** — React Web Developer
+
+Welcome to my GitHub profile! I'm a passionate **frontend developer** who specializes in building dynamic, responsive, and user-centric web applications using **React** and **Baas** tools such as **Convex** .
+
+---
+
+## 🛠 Tech Stack
+
+Here are the tools and technologies I work with regularly:
+
+### 💻 Frontend
+- **React** 
+- **Next.js**
+- **TypeScript**
+- **Tailwind CSS**
+- **HTML5 / CSS3 / Sass**
+- **Redux / Zustand**
+
+### ⚙️ Backend & APIs
+- **Convex Database**
+- **Supabase**
+- **Firebase / Firestore**
+
+
+### 🧰 Tools & Others
+- **Git & GitHub**
+- **VS Code**
+- **Figma** (for UI design & prototyping)
+- **Vercel / Netlify** (for deployment)
+- **Postman** (for API testing)
+
+---
+
+## 🚀 What I'm Currently Working On
+
+I'm building **Inri** — a kitchen and online food ordering platform designed to streamline restaurant workflows and offer customers a seamless ordering experience. It includes order management, real-time tracking, and a beautiful user-facing interface.
+
+---
+
+## 📫 Let's Connect
+
+Feel free to reach out or check out my work:
+
+- Portfolio: [your-portfolio-link.com](https://chiki-portfolio.vercel.app/)
+- Email: [youremail@example.com](mailto:chikimiracle2000@gmail.com)
+
+Thanks for stopping by! ⭐
+
+
+
+<!--
 <h1 align="center">👋 Hey there! I'm a TypeScript Fullstack Developer.</h1>
 
 <p align="center">
@@ -52,7 +103,7 @@
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=codepen&logoColor=white" alt="Portfolio" />
   </a>
 </p>
-
+-->
 
 
 <!--
