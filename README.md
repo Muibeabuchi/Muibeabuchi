@@ -41,8 +41,8 @@ I'm building **Inri** — a kitchen and online food ordering platform designed t
 
 Feel free to reach out or check out my work:
 
-- Portfolio: [your-portfolio-link.com](https://chiki-portfolio.vercel.app/)
-- Email: [youremail@example.com](mailto:chikimiracle2000@gmail.com)
+- Portfolio: [my portfolio website](https://chiki-portfolio.vercel.app/)
+- Email: [contact me on gmail](mailto:chikimiracle2000@gmail.com)
 
 Thanks for stopping by! ⭐
 
